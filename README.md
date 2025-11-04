@@ -5,22 +5,23 @@
 
 ---
 
-### 💼 Мои проекты
+## 💼 Мои проекты
 
 | 💬 Telegram-боты | 💅 Веб-проекты |
 |------------------|----------------|
-| [Arr0w-services-bot](https://github.com/StrongArr0w/Arr0w-services-bot) — бот-каталог услуг | [nail-school](https://github.com/StrongArr0w/nail-school) — сайт школы маникюра |
-| [nail-bot](https://github.com/StrongArr0w/nail-bot) — бот для записи с календарём | — |
+| [**Arr0w-services-bot**](https://github.com/StrongArr0w/Arr0w-services-bot) — бот-каталог услуг | [**nail-school**](https://github.com/StrongArr0w/nail-school) — сайт школы маникюра |
+| [**nail-bot**](https://github.com/StrongArr0w/nail-bot) — бот для записи с календарём | — |
 
 ---
 
-### 🧠 Навыки
+## 🧠 Навыки
+
 `JavaScript` · `Node.js` · `Telegraf` · `React` · `TypeScript`  
 `Google Calendar API` · `JSON Storage` · `Render Deployment`
 
 ---
 
-### ⚙️ Услуги
+## ⚙️ Услуги
 
 | Уровень | Описание | Стоимость |
 |----------|-----------|------------|
@@ -30,11 +31,8 @@
 
 ---
 
-### 📬 Связь
-Telegram: [@StrongArr0w](https://t.me/StrongArr0w)  
-Email: `arr0w.dev@gmail.com` *(пример, если хочешь — поменяем)*
+## 📬 Связь
 
----
+- Telegram: [@StrongArr0w](https://t.me/StrongArr0w) -
 
-> 💡 *Arr0w Bots — делаю цифровые инструменты, которые работают за вас.*
-# StrongArr0w
+> 💡 **Arr0w Bots** — делаю цифровые инструменты, которые работают за ваc.
